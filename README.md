@@ -1,6 +1,6 @@
 # Vologda 2027
 
-Static website supplied in vologda-2027.tar.gz. Site files are preserved without rebuilding.
+Static website supplied in vologda-2027-cameras.tar.gz. Site files are preserved without rebuilding.
 
 ## Timeweb App Platform
 
